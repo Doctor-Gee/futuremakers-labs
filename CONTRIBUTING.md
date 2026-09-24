@@ -21,6 +21,6 @@ This is a public learner resource. Keep each lab clear, safe, and easy to read.
 
 Include learner instructions, approved training links, a glossary, submission steps, and public templates. Keep private learner work, personal information, internal rubrics or review notes, live credentials, and answer keys out of this repository.
 
-**Before publishing a new lab:** Put game passwords and classroom join links in a matching free community access post. Keep the public Markdown and PDF free of those details. Check both versions before uploading. For Lab 01, publish a post called **Lab 01 access** with the classroom link and passwords. Keep this public page useful even to someone who has not joined yet.
+**Before publishing a new lab:** Put game passwords and classroom join links in a matching free community access location in the free apprenticeship preparation course. Keep the public Markdown and PDF free of those details. Check both versions before uploading. For Lab 01, upload an "assignment material" called **Lab 01 access** with the classroom link and passwords. Keep this public page useful even to someone who have not joined other activities yet.
 
 Use short sentences. Keep necessary technical terms and explain them the first time or in the glossary. Check that learners can complete the lab without a required one-on-one meeting.

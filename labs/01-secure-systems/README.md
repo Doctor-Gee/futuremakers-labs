@@ -2,7 +2,7 @@
 
 **FutureMakers Apprenticeship Readiness | Free | Self-paced**
 
-**Need access to the KC7 games?** [Join the free FutureMakers community](https://portal.bbracademy.org/communities/groups/cyberai-f-initiative/home?invite=6ab4a8feeb5c67284e784ce7&utm_source=github). Open the **Lab 01 access** post there for the BBR classroom link and the two game passwords. You can read the full assignment here before you join.
+**Need access to the KC7 games?** [Join the free FutureMakers community](https://portal.bbracademy.org/communities/groups/cyberai-f-initiative/home?invite=6ab4a8feeb5c67284e784ce7&utm_source=github). Open the **Lab 01 access** post there for the BBR classroom link and the two game passwords. You can read the full assignment here before you join. Important: BBR Academy instructors only review materials inside the community, but we post this lab information here to show examples of the kids of hands-on activities that are available within our free online community.
 
 ## Instructions
 

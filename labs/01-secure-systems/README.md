@@ -167,6 +167,33 @@ Try to use all six types. If one does not fit, say why. Then add another threat 
 
 You can use an accessible drawing or writing tool. You can also submit a clear hand drawing. If a tool or file type blocks you, ask BBR Academy for another way to submit. The same learning and safety goals apply.
 
+## Turning this lab into a portfolio project
+
+Use this lab to show how you investigate problems, weigh risks, and explain your decisions. You can create a GitHub repository or a short project page.
+
+**What you can share**
+- A brief summary of the lab, crediting BBR Academy’s FutureMakers and KC7.
+- Your own system diagram, threat register, and risk recommendations for the fictional learner-support service.
+- Your reasoning: what you considered, why you chose a safeguard, and what risk remains.
+- A reflection on what you learned, what you would check next, and any help you used, including AI.
+
+**What to keep private**
+- Classroom links, game passwords, credentials, tokens, and personal information.
+- KC7 answers, flags, walkthroughs, or queries and results that reveal solutions.
+- Screenshots or game content unless KC7 explicitly permits public sharing. Permission to submit something privately for instructor review does not automatically mean you can publish it.
+
+**Explain your thinking without revealing answers**
+
+Describe your approach and its limits. For example:
+
+> I compared events to explore whether suspicious activity had another explanation. I separated what the evidence supported from what remained uncertain and identified the next check I would make.
+
+For your fictional service design, explain a decision:
+
+> I recommended limiting staff access by role because different tasks require different permissions. This reduces unnecessary access, but access reviews and monitoring would still be needed.
+
+Label the project as a **training exercise using fictional data**. Only claim work you completed and can explain. Link to the [FutureMakers lab](https://github.com/Doctor-Gee/futuremakers-labs) so visitors can understand the assignment.
+
 ## Glossary
 
 - **AI provider:** An outside service that runs an AI model. Data sent to it crosses a trust boundary.
